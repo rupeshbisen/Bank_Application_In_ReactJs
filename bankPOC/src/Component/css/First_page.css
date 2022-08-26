@@ -1,0 +1,41 @@
+.navStayle{
+    background-color: aquamarine;
+    padding: 20px;
+}
+nav a{
+    margin-right: 65px;
+}
+/* nav a.active{
+    text-decoration: none;
+    font-weight: bold;
+}  */
+.bankingName{
+    font-weight: bold;
+    text-align: center;
+    font-size: xxx-large;
+    font-family: initial;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    position: absolute;
+}
+.createButton{
+    background-color: #364d4d96;
+    padding: 23px;
+    border-radius: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    margin-left: 275px;
+    font-size: x-large;
+    position: absolute;
+    bottom: 30px;
+}
+.LoginPage{
+    position:absolute;
+    right: 30px;
+    margin-top: -6px;
+}
+.logout{
+    position:absolute;
+    right: 30px;
+    margin-top: -6px;
+}
