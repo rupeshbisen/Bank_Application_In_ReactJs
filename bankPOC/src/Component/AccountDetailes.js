@@ -14,7 +14,6 @@ export default function AccountDetailes(props) {
                             </tr>
                         </thead>
                         <tbody className='table-group-divider'>
-
                             <tr>
                                 <th scope="col">Bank Id.fhvk</th>
                                 <td>{data.bankId}</td>
