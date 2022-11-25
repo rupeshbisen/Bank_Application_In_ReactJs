@@ -20,7 +20,7 @@ export default function AccountDetailes(props) {
                                 <td>{data.bankId}</td>
                             </tr>
                             <tr>
-                                <th scope="row">Customer Id.</th>
+                                <th scope="row">Customer Id. hi</th>
                                 <td>{data.customerId}</td>
                             </tr>
                             <tr>
